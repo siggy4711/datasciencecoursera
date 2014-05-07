@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-repository for datascientist toolbox course project
+repository for datascientist toolbox course project, JEV van Mulken
